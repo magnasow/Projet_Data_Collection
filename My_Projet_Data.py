@@ -20,7 +20,7 @@ equipe_lottie = (
 logo = Image.open("images/logo.png")
 board = Image.open("images/board.webp")
 
-dakarvente = Image.open("images/dakarvente.png")
+dakarvente = Image.open("images/dakarvente.PNG")
 base64 = Image.open("images/base64.png")
 matplob = Image.open("images/matplob.png")
 pandas = Image.open("images/pandas.png")
